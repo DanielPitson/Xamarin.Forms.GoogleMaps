@@ -89,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Build.Download">
-      <Version>0.4.3</Version>
+      <Version>0.4.7</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
       <Version>4.4.0.991265</Version>

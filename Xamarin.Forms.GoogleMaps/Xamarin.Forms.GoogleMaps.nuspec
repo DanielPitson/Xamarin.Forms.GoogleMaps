@@ -3,8 +3,14 @@
 	<metadata minClientVersion="2.8.3">
 		<id>Xamarin.Forms.GoogleMaps.v2</id>
 		<title>Xamarin.Forms.GoogleMaps</title>
-		<version>3.3.0</version>
+		<version>3.4.0</version>
 		<releaseNotes>
+# 3.4.0
+
+## New Features
+
+* [Android] Migrating to AndroidX
+
 # 3.2.1
 
 ## New Features
@@ -79,7 +85,7 @@ full release notes is here - https://github.com/amay077/Xamarin.Forms.GoogleMaps
       </group>
       <group targetFramework="MonoAndroid80">
         <dependency id="Xamarin.GooglePlayServices.Maps" version="60.1142.1"/>
-        <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.1.0"/>
+        <!-- <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.1.0"/> -->
       </group>
       <group targetFramework="Xamarin.iOS10">
         <dependency id="Xamarin.Google.iOS.Maps" version="2.5.0"/>
@@ -103,8 +109,9 @@ full release notes is here - https://github.com/amay077/Xamarin.Forms.GoogleMaps
 		<file src="Xamarin.Forms.GoogleMaps\bin\Release\netstandard2.0\Xamarin.Forms.GoogleMaps.dll" target="lib\Xamarin.iOS10\Xamarin.Forms.GoogleMaps.dll" />
 
 	    <!--uap-->
+        <!-- Deprecated ya no se usa
 		<file src="Xamarin.Forms.GoogleMaps.UWP\bin\Release\Xamarin.Forms.GoogleMaps.UWP.dll" target="lib\UAP10\Xamarin.Forms.GoogleMaps.UWP.dll" />
 		<file src="Xamarin.Forms.GoogleMaps\bin\Release\netstandard2.0\Xamarin.Forms.GoogleMaps.dll" target="lib\UAP10\Xamarin.Forms.GoogleMaps.dll" />
-
+        -->
 	</files>
 </package>
