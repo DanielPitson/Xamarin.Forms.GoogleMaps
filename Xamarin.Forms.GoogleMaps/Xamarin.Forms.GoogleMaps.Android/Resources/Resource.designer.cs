@@ -1743,58 +1743,61 @@ namespace Xamarin.Forms.GoogleMaps.Android
 			public static int uiScrollGestures = 2130903560;
 			
 			// aapt resource value: 0x7F030209
-			public static int uiTiltGestures = 2130903561;
+			public static int uiScrollGesturesDuringRotateOrZoom = 2130903561;
 			
 			// aapt resource value: 0x7F03020A
-			public static int uiZoomControls = 2130903562;
+			public static int uiTiltGestures = 2130903562;
 			
 			// aapt resource value: 0x7F03020B
-			public static int uiZoomGestures = 2130903563;
+			public static int uiZoomControls = 2130903563;
 			
 			// aapt resource value: 0x7F03020C
-			public static int useCompatPadding = 2130903564;
+			public static int uiZoomGestures = 2130903564;
 			
 			// aapt resource value: 0x7F03020D
-			public static int useViewLifecycle = 2130903565;
+			public static int useCompatPadding = 2130903565;
 			
 			// aapt resource value: 0x7F03020E
-			public static int viewInflaterClass = 2130903566;
+			public static int useViewLifecycle = 2130903566;
 			
 			// aapt resource value: 0x7F03020F
-			public static int voiceIcon = 2130903567;
+			public static int viewInflaterClass = 2130903567;
 			
 			// aapt resource value: 0x7F030210
-			public static int windowActionBar = 2130903568;
+			public static int voiceIcon = 2130903568;
 			
 			// aapt resource value: 0x7F030211
-			public static int windowActionBarOverlay = 2130903569;
+			public static int windowActionBar = 2130903569;
 			
 			// aapt resource value: 0x7F030212
-			public static int windowActionModeOverlay = 2130903570;
+			public static int windowActionBarOverlay = 2130903570;
 			
 			// aapt resource value: 0x7F030213
-			public static int windowFixedHeightMajor = 2130903571;
+			public static int windowActionModeOverlay = 2130903571;
 			
 			// aapt resource value: 0x7F030214
-			public static int windowFixedHeightMinor = 2130903572;
+			public static int windowFixedHeightMajor = 2130903572;
 			
 			// aapt resource value: 0x7F030215
-			public static int windowFixedWidthMajor = 2130903573;
+			public static int windowFixedHeightMinor = 2130903573;
 			
 			// aapt resource value: 0x7F030216
-			public static int windowFixedWidthMinor = 2130903574;
+			public static int windowFixedWidthMajor = 2130903574;
 			
 			// aapt resource value: 0x7F030217
-			public static int windowMinWidthMajor = 2130903575;
+			public static int windowFixedWidthMinor = 2130903575;
 			
 			// aapt resource value: 0x7F030218
-			public static int windowMinWidthMinor = 2130903576;
+			public static int windowMinWidthMajor = 2130903576;
 			
 			// aapt resource value: 0x7F030219
-			public static int windowNoTitle = 2130903577;
+			public static int windowMinWidthMinor = 2130903577;
 			
 			// aapt resource value: 0x7F03021A
-			public static int zOrderOnTop = 2130903578;
+			public static int windowNoTitle = 2130903578;
+			
+			// aapt resource value: 0x7F03021B
+			public static int zOrderOnTop = 2130903579;
 			
 			static Attribute()
 			{
@@ -5625,154 +5628,157 @@ namespace Xamarin.Forms.GoogleMaps.Android
 			public static int common_google_play_services_install_title = 2131492912;
 			
 			// aapt resource value: 0x7F0C0031
-			public static int common_google_play_services_notification_ticker = 2131492913;
+			public static int common_google_play_services_notification_channel_name = 2131492913;
 			
 			// aapt resource value: 0x7F0C0032
-			public static int common_google_play_services_unknown_issue = 2131492914;
+			public static int common_google_play_services_notification_ticker = 2131492914;
 			
 			// aapt resource value: 0x7F0C0033
-			public static int common_google_play_services_unsupported_text = 2131492915;
+			public static int common_google_play_services_unknown_issue = 2131492915;
 			
 			// aapt resource value: 0x7F0C0034
-			public static int common_google_play_services_update_button = 2131492916;
+			public static int common_google_play_services_unsupported_text = 2131492916;
 			
 			// aapt resource value: 0x7F0C0035
-			public static int common_google_play_services_update_text = 2131492917;
+			public static int common_google_play_services_update_button = 2131492917;
 			
 			// aapt resource value: 0x7F0C0036
-			public static int common_google_play_services_update_title = 2131492918;
+			public static int common_google_play_services_update_text = 2131492918;
 			
 			// aapt resource value: 0x7F0C0037
-			public static int common_google_play_services_updating_text = 2131492919;
+			public static int common_google_play_services_update_title = 2131492919;
 			
 			// aapt resource value: 0x7F0C0038
-			public static int common_google_play_services_wear_update_text = 2131492920;
+			public static int common_google_play_services_updating_text = 2131492920;
 			
 			// aapt resource value: 0x7F0C0039
-			public static int common_open_on_phone = 2131492921;
+			public static int common_google_play_services_wear_update_text = 2131492921;
 			
 			// aapt resource value: 0x7F0C003A
-			public static int common_signin_button_text = 2131492922;
+			public static int common_open_on_phone = 2131492922;
 			
 			// aapt resource value: 0x7F0C003B
-			public static int common_signin_button_text_long = 2131492923;
+			public static int common_signin_button_text = 2131492923;
 			
 			// aapt resource value: 0x7F0C003C
-			public static int copy_toast_msg = 2131492924;
+			public static int common_signin_button_text_long = 2131492924;
 			
 			// aapt resource value: 0x7F0C003D
-			public static int fab_transformation_scrim_behavior = 2131492925;
+			public static int copy_toast_msg = 2131492925;
 			
 			// aapt resource value: 0x7F0C003E
-			public static int fab_transformation_sheet_behavior = 2131492926;
+			public static int fab_transformation_scrim_behavior = 2131492926;
 			
 			// aapt resource value: 0x7F0C003F
-			public static int fallback_menu_item_copy_link = 2131492927;
+			public static int fab_transformation_sheet_behavior = 2131492927;
 			
 			// aapt resource value: 0x7F0C0040
-			public static int fallback_menu_item_open_in_browser = 2131492928;
+			public static int fallback_menu_item_copy_link = 2131492928;
 			
 			// aapt resource value: 0x7F0C0041
-			public static int fallback_menu_item_share_link = 2131492929;
+			public static int fallback_menu_item_open_in_browser = 2131492929;
 			
 			// aapt resource value: 0x7F0C0042
-			public static int hide_bottom_view_on_scroll_behavior = 2131492930;
+			public static int fallback_menu_item_share_link = 2131492930;
 			
 			// aapt resource value: 0x7F0C0043
-			public static int mr_button_content_description = 2131492931;
+			public static int hide_bottom_view_on_scroll_behavior = 2131492931;
 			
 			// aapt resource value: 0x7F0C0044
-			public static int mr_cast_button_connected = 2131492932;
+			public static int mr_button_content_description = 2131492932;
 			
 			// aapt resource value: 0x7F0C0045
-			public static int mr_cast_button_connecting = 2131492933;
+			public static int mr_cast_button_connected = 2131492933;
 			
 			// aapt resource value: 0x7F0C0046
-			public static int mr_cast_button_disconnected = 2131492934;
+			public static int mr_cast_button_connecting = 2131492934;
 			
 			// aapt resource value: 0x7F0C0047
-			public static int mr_cast_dialog_title_view_placeholder = 2131492935;
+			public static int mr_cast_button_disconnected = 2131492935;
 			
 			// aapt resource value: 0x7F0C0048
-			public static int mr_chooser_searching = 2131492936;
+			public static int mr_cast_dialog_title_view_placeholder = 2131492936;
 			
 			// aapt resource value: 0x7F0C0049
-			public static int mr_chooser_title = 2131492937;
+			public static int mr_chooser_searching = 2131492937;
 			
 			// aapt resource value: 0x7F0C004A
-			public static int mr_controller_album_art = 2131492938;
+			public static int mr_chooser_title = 2131492938;
 			
 			// aapt resource value: 0x7F0C004B
-			public static int mr_controller_casting_screen = 2131492939;
+			public static int mr_controller_album_art = 2131492939;
 			
 			// aapt resource value: 0x7F0C004C
-			public static int mr_controller_close_description = 2131492940;
+			public static int mr_controller_casting_screen = 2131492940;
 			
 			// aapt resource value: 0x7F0C004D
-			public static int mr_controller_collapse_group = 2131492941;
+			public static int mr_controller_close_description = 2131492941;
 			
 			// aapt resource value: 0x7F0C004E
-			public static int mr_controller_disconnect = 2131492942;
+			public static int mr_controller_collapse_group = 2131492942;
 			
 			// aapt resource value: 0x7F0C004F
-			public static int mr_controller_expand_group = 2131492943;
+			public static int mr_controller_disconnect = 2131492943;
 			
 			// aapt resource value: 0x7F0C0050
-			public static int mr_controller_no_info_available = 2131492944;
+			public static int mr_controller_expand_group = 2131492944;
 			
 			// aapt resource value: 0x7F0C0051
-			public static int mr_controller_no_media_selected = 2131492945;
+			public static int mr_controller_no_info_available = 2131492945;
 			
 			// aapt resource value: 0x7F0C0052
-			public static int mr_controller_pause = 2131492946;
+			public static int mr_controller_no_media_selected = 2131492946;
 			
 			// aapt resource value: 0x7F0C0053
-			public static int mr_controller_play = 2131492947;
+			public static int mr_controller_pause = 2131492947;
 			
 			// aapt resource value: 0x7F0C0054
-			public static int mr_controller_stop = 2131492948;
+			public static int mr_controller_play = 2131492948;
 			
 			// aapt resource value: 0x7F0C0055
-			public static int mr_controller_stop_casting = 2131492949;
+			public static int mr_controller_stop = 2131492949;
 			
 			// aapt resource value: 0x7F0C0056
-			public static int mr_controller_volume_slider = 2131492950;
+			public static int mr_controller_stop_casting = 2131492950;
 			
 			// aapt resource value: 0x7F0C0057
-			public static int mr_dialog_groupable_header = 2131492951;
+			public static int mr_controller_volume_slider = 2131492951;
 			
 			// aapt resource value: 0x7F0C0058
-			public static int mr_dialog_transferable_header = 2131492952;
+			public static int mr_dialog_groupable_header = 2131492952;
 			
 			// aapt resource value: 0x7F0C0059
-			public static int mr_system_route_name = 2131492953;
+			public static int mr_dialog_transferable_header = 2131492953;
 			
 			// aapt resource value: 0x7F0C005A
-			public static int mr_user_route_category_name = 2131492954;
+			public static int mr_system_route_name = 2131492954;
 			
 			// aapt resource value: 0x7F0C005B
-			public static int mtrl_chip_close_icon_content_description = 2131492955;
+			public static int mr_user_route_category_name = 2131492955;
 			
 			// aapt resource value: 0x7F0C005C
-			public static int password_toggle_content_description = 2131492956;
+			public static int mtrl_chip_close_icon_content_description = 2131492956;
 			
 			// aapt resource value: 0x7F0C005D
-			public static int path_password_eye = 2131492957;
+			public static int password_toggle_content_description = 2131492957;
 			
 			// aapt resource value: 0x7F0C005E
-			public static int path_password_eye_mask_strike_through = 2131492958;
+			public static int path_password_eye = 2131492958;
 			
 			// aapt resource value: 0x7F0C005F
-			public static int path_password_eye_mask_visible = 2131492959;
+			public static int path_password_eye_mask_strike_through = 2131492959;
 			
 			// aapt resource value: 0x7F0C0060
-			public static int path_password_strike_through = 2131492960;
+			public static int path_password_eye_mask_visible = 2131492960;
 			
 			// aapt resource value: 0x7F0C0061
-			public static int search_menu_title = 2131492961;
+			public static int path_password_strike_through = 2131492961;
 			
 			// aapt resource value: 0x7F0C0062
-			public static int status_bar_notification_info_overflow = 2131492962;
+			public static int search_menu_title = 2131492962;
+			
+			// aapt resource value: 0x7F0C0063
+			public static int status_bar_notification_info_overflow = 2131492963;
 			
 			static String()
 			{
@@ -7849,7 +7855,7 @@ namespace Xamarin.Forms.GoogleMaps.Android
 			// aapt resource value: 20
 			public static int AppCompatTextView_textLocale = 20;
 			
-			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F03002C,0x7F03003F,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F030051,0x7F030057,0x7F030058,0x7F030069,0x7F03006E,0x7F03008F,0x7F030090,0x7F030091,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030097,0x7F03009A,0x7F0300A9,0x7F0300B2,0x7F0300B3,0x7F0300B4,0x7F0300B7,0x7F0300B9,0x7F0300C4,0x7F0300C5,0x7F0300C6,0x7F0300C7,0x7F0300C8,0x7F0300FF,0x7F03010D,0x7F030134,0x7F030135,0x7F030136,0x7F030137,0x7F03013A,0x7F03013B,0x7F03013C,0x7F03013D,0x7F03013E,0x7F03013F,0x7F030140,0x7F030141,0x7F030142,0x7F030169,0x7F03016A,0x7F03016B,0x7F030171,0x7F030173,0x7F03017A,0x7F03017B,0x7F03017C,0x7F03017D,0x7F030187,0x7F030188,0x7F030189,0x7F03018A,0x7F030197,0x7F030198,0x7F0301AE,0x7F0301D5,0x7F0301D6,0x7F0301D7,0x7F0301D8,0x7F0301DA,0x7F0301DB,0x7F0301DC,0x7F0301DD,0x7F0301E0,0x7F0301E1,0x7F0301FC,0x7F0301FD,0x7F0301FE,0x7F0301FF,0x7F03020E,0x7F030210,0x7F030211,0x7F030212,0x7F030213,0x7F030214,0x7F030215,0x7F030216,0x7F030217,0x7F030218,0x7F030219 }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F03002C,0x7F03003F,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F030051,0x7F030057,0x7F030058,0x7F030069,0x7F03006E,0x7F03008F,0x7F030090,0x7F030091,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030097,0x7F03009A,0x7F0300A9,0x7F0300B2,0x7F0300B3,0x7F0300B4,0x7F0300B7,0x7F0300B9,0x7F0300C4,0x7F0300C5,0x7F0300C6,0x7F0300C7,0x7F0300C8,0x7F0300FF,0x7F03010D,0x7F030134,0x7F030135,0x7F030136,0x7F030137,0x7F03013A,0x7F03013B,0x7F03013C,0x7F03013D,0x7F03013E,0x7F03013F,0x7F030140,0x7F030141,0x7F030142,0x7F030169,0x7F03016A,0x7F03016B,0x7F030171,0x7F030173,0x7F03017A,0x7F03017B,0x7F03017C,0x7F03017D,0x7F030187,0x7F030188,0x7F030189,0x7F03018A,0x7F030197,0x7F030198,0x7F0301AE,0x7F0301D5,0x7F0301D6,0x7F0301D7,0x7F0301D8,0x7F0301DA,0x7F0301DB,0x7F0301DC,0x7F0301DD,0x7F0301E0,0x7F0301E1,0x7F0301FC,0x7F0301FD,0x7F0301FE,0x7F0301FF,0x7F03020F,0x7F030211,0x7F030212,0x7F030213,0x7F030214,0x7F030215,0x7F030216,0x7F030217,0x7F030218,0x7F030219,0x7F03021A }
 			public static int[] AppCompatTheme = new int[] {
 					16842839,
 					16842926,
@@ -7965,8 +7971,7 @@ namespace Xamarin.Forms.GoogleMaps.Android
 					2130903549,
 					2130903550,
 					2130903551,
-					2130903566,
-					2130903568,
+					2130903567,
 					2130903569,
 					2130903570,
 					2130903571,
@@ -7975,7 +7980,8 @@ namespace Xamarin.Forms.GoogleMaps.Android
 					2130903574,
 					2130903575,
 					2130903576,
-					2130903577};
+					2130903577,
+					2130903578};
 			
 			// aapt resource value: 2
 			public static int AppCompatTheme_actionBarDivider = 2;
@@ -8869,7 +8875,7 @@ namespace Xamarin.Forms.GoogleMaps.Android
 			// aapt resource value: 7
 			public static int DrawerArrowToggle_thickness = 7;
 			
-			// aapt resource value: { 0x7F030035,0x7F030036,0x7F03003E,0x7F0300C9,0x7F0300DD,0x7F0300DE,0x7F0300F9,0x7F030101,0x7F03014B,0x7F030175,0x7F030180,0x7F03018D,0x7F03020C }
+			// aapt resource value: { 0x7F030035,0x7F030036,0x7F03003E,0x7F0300C9,0x7F0300DD,0x7F0300DE,0x7F0300F9,0x7F030101,0x7F03014B,0x7F030175,0x7F030180,0x7F03018D,0x7F03020D }
 			public static int[] FloatingActionButton = new int[] {
 					2130903093,
 					2130903094,
@@ -8883,7 +8889,7 @@ namespace Xamarin.Forms.GoogleMaps.Android
 					2130903413,
 					2130903424,
 					2130903437,
-					2130903564};
+					2130903565};
 			
 			// aapt resource value: 0
 			public static int FloatingActionButton_backgroundTint = 0;
@@ -9173,7 +9179,7 @@ namespace Xamarin.Forms.GoogleMaps.Android
 			// aapt resource value: 2
 			public static int LoadingImageView_imageAspectRatioAdjust = 2;
 			
-			// aapt resource value: { 0x7F030029,0x7F03005B,0x7F03005C,0x7F03005D,0x7F03005E,0x7F03005F,0x7F030060,0x7F030061,0x7F030121,0x7F030122,0x7F030123,0x7F030124,0x7F030143,0x7F030146,0x7F030205,0x7F030206,0x7F030207,0x7F030208,0x7F030209,0x7F03020A,0x7F03020B,0x7F03020D,0x7F03021A }
+			// aapt resource value: { 0x7F030029,0x7F03005B,0x7F03005C,0x7F03005D,0x7F03005E,0x7F03005F,0x7F030060,0x7F030061,0x7F030121,0x7F030122,0x7F030123,0x7F030124,0x7F030143,0x7F030146,0x7F030205,0x7F030206,0x7F030207,0x7F030208,0x7F030209,0x7F03020A,0x7F03020B,0x7F03020C,0x7F03020E,0x7F03021B }
 			public static int[] MapAttrs = new int[] {
 					2130903081,
 					2130903131,
@@ -9196,8 +9202,9 @@ namespace Xamarin.Forms.GoogleMaps.Android
 					2130903561,
 					2130903562,
 					2130903563,
-					2130903565,
-					2130903578};
+					2130903564,
+					2130903566,
+					2130903579};
 			
 			// aapt resource value: 0
 			public static int MapAttrs_ambientEnabled = 0;
@@ -9254,19 +9261,22 @@ namespace Xamarin.Forms.GoogleMaps.Android
 			public static int MapAttrs_uiScrollGestures = 17;
 			
 			// aapt resource value: 18
-			public static int MapAttrs_uiTiltGestures = 18;
+			public static int MapAttrs_uiScrollGesturesDuringRotateOrZoom = 18;
 			
 			// aapt resource value: 19
-			public static int MapAttrs_uiZoomControls = 19;
+			public static int MapAttrs_uiTiltGestures = 19;
 			
 			// aapt resource value: 20
-			public static int MapAttrs_uiZoomGestures = 20;
+			public static int MapAttrs_uiZoomControls = 20;
 			
 			// aapt resource value: 21
-			public static int MapAttrs_useViewLifecycle = 21;
+			public static int MapAttrs_uiZoomGestures = 21;
 			
 			// aapt resource value: 22
-			public static int MapAttrs_zOrderOnTop = 22;
+			public static int MapAttrs_useViewLifecycle = 22;
+			
+			// aapt resource value: 23
+			public static int MapAttrs_zOrderOnTop = 23;
 			
 			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030035,0x7F030036,0x7F0300AB,0x7F030102,0x7F030104,0x7F030105,0x7F030106,0x7F030108,0x7F030109,0x7F030180,0x7F0301A3,0x7F0301A4 }
 			public static int[] MaterialButton = new int[] {
@@ -9810,7 +9820,7 @@ namespace Xamarin.Forms.GoogleMaps.Android
 			// aapt resource value: 0
 			public static int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
 			
-			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F030082,0x7F03009B,0x7F0300B1,0x7F0300F3,0x7F03010A,0x7F030125,0x7F030178,0x7F030179,0x7F030185,0x7F030186,0x7F0301A6,0x7F0301AB,0x7F03020F }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F030082,0x7F03009B,0x7F0300B1,0x7F0300F3,0x7F03010A,0x7F030125,0x7F030178,0x7F030179,0x7F030185,0x7F030186,0x7F0301A6,0x7F0301AB,0x7F030210 }
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843039,
@@ -9828,7 +9838,7 @@ namespace Xamarin.Forms.GoogleMaps.Android
 					2130903430,
 					2130903462,
 					2130903467,
-					2130903567};
+					2130903568};
 			
 			// aapt resource value: 0
 			public static int SearchView_android_focusable = 0;
