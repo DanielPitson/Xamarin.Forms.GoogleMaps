@@ -10,6 +10,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.GoogleMaps.iO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.GoogleMaps.UWP", "Xamarin.Forms.GoogleMaps.UWP\Xamarin.Forms.GoogleMaps.UWP.csproj", "{C62FCB91-7D10-4665-912C-B7CCEC9535D7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Items", "Items", "{87D8936B-0443-4103-A254-C539E39F719F}"
+	ProjectSection(SolutionItems) = preProject
+		build.bat = build.bat
+		Xamarin.Forms.GoogleMaps.nuspec = Xamarin.Forms.GoogleMaps.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
