@@ -3,8 +3,17 @@
 	<metadata minClientVersion="2.8.3">
 		<id>Xamarin.Forms.GoogleMaps.v2</id>
 		<title>Xamarin.Forms.GoogleMaps</title>
-		<version>3.4.0</version>
+		<version>3.4.5</version>
 		<releaseNotes>
+
+# 3.4.5
+
+## New Features
+
+* [Android] Upgrade libraries AndroidX and Google Maps
+* [iOS] Upgrade libraries Google Maps
+* [iOS] Upgrade min version iOS
+
 # 3.4.0
 
 ## New Features
@@ -81,14 +90,14 @@ full release notes is here - https://github.com/amay077/Xamarin.Forms.GoogleMaps
 		<tags>xamarin forms maps xamarinforms xamarinformsmaps xamarin.forms.maps xamarinformsgooglemaps xamarin.forms.googlemaps google googlemap</tags>
 	<dependencies>
       <group>
-        <dependency id="Xamarin.Forms" version="4.2" />
+        <dependency id="Xamarin.Forms" version="4.5" />
       </group>
       <group targetFramework="MonoAndroid80">
-        <dependency id="Xamarin.GooglePlayServices.Maps" version="60.1142.1"/>
+        <dependency id="Xamarin.GooglePlayServices.Maps" version="117.0.0"/>
         <!-- <dependency id="Xamarin.Android.Support.v7.AppCompat" version="25.1.0"/> -->
       </group>
       <group targetFramework="Xamarin.iOS10">
-        <dependency id="Xamarin.Google.iOS.Maps" version="2.5.0"/>
+        <dependency id="Xamarin.Google.iOS.Maps" version="3.9.0"/>
       </group>
 	</dependencies>
 	</metadata>
